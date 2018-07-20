@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blogging Like a Hacker
+categories: post
 ---
 
 # HBase源码阅读
